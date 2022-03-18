@@ -6,4 +6,7 @@ def sum_to(n):
     return sum_n
 
 
+print(sum_to(1))
+print(sum_to(3))
 print(sum_to(10))
+print(sum_to(200))
