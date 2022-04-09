@@ -27,6 +27,7 @@ class Lettuce(IsFood, IsGood):
     print('I am a lettuce.')
     super().__init__('Lettuce')
 
+
 # Main
 lettuce = Lettuce()
 print('')
